@@ -8,7 +8,6 @@ public class ArithmeticCalculator {
 			double b = Double.parseDouble(args[2]);
 			String operator = args[1];
 			double result;
-			int number;
 
 			switch (operator) {
 
